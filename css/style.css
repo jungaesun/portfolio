@@ -383,7 +383,7 @@ header .intro-text .intro-heading {
 }
 
 .business{
-	width: 1250px
+	width: 100%
 }
 
 .section-text_text{
@@ -791,7 +791,7 @@ font-size: 11px;
 }
 
 .modal-dialog{
-	margin-left: 100px;
+	margin-left: 200px;
 }
 
 .modal-content_y{
